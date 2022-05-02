@@ -4,19 +4,19 @@
     "url": "https://jeffersonreal.uk",
     "icon": "https://favicons.githubusercontent.com/jeffersonreal.uk",
     "slug": "jefferson-real",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 964,
-    "timeDay": 1051,
-    "timeWeek": 964,
-    "timeMonth": 964,
-    "timeYear": 964,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 979,
+    "timeDay": 1038,
+    "timeWeek": 979,
+    "timeMonth": 979,
+    "timeYear": 979,
     "dailyMinutesDown": {
-      "2022-05-02": 0
+      "2022-05-02": 11
     }
   },
   {
