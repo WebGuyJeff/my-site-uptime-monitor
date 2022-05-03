@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/jeffersonreal.uk",
     "slug": "jefferson-real",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
-    "time": 979,
-    "timeDay": 1038,
-    "timeWeek": 979,
-    "timeMonth": 979,
-    "timeYear": 979,
-    "dailyMinutesDown": {
-      "2022-05-02": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 987,
+    "timeDay": 1023,
+    "timeWeek": 987,
+    "timeMonth": 987,
+    "timeYear": 987,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bigup Web",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 697,
+    "time": 726,
     "timeDay": 810,
-    "timeWeek": 697,
-    "timeMonth": 697,
-    "timeYear": 697,
+    "timeWeek": 726,
+    "timeMonth": 726,
+    "timeYear": 726,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2183,
-    "timeDay": 1783,
-    "timeWeek": 2183,
-    "timeMonth": 2183,
-    "timeYear": 2183,
+    "time": 2038,
+    "timeDay": 1603,
+    "timeWeek": 2038,
+    "timeMonth": 2038,
+    "timeYear": 2038,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1175,
-    "timeDay": 1330,
-    "timeWeek": 1175,
-    "timeMonth": 1175,
-    "timeYear": 1175,
+    "time": 1218,
+    "timeDay": 1345,
+    "timeWeek": 1218,
+    "timeMonth": 1218,
+    "timeYear": 1218,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2234,
-    "timeDay": 1531,
-    "timeWeek": 2234,
-    "timeMonth": 2234,
-    "timeYear": 2234,
+    "time": 2031,
+    "timeDay": 1421,
+    "timeWeek": 2031,
+    "timeMonth": 2031,
+    "timeYear": 2031,
     "dailyMinutesDown": {}
   }
 ]
