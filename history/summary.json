@@ -68,10 +68,10 @@
     "url": "https://breezemedicalinvoicing.com",
     "icon": "https://favicons.githubusercontent.com/breezemedicalinvoicing.com",
     "slug": "breeze-medical-invoicing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2379,
@@ -79,16 +79,18 @@
     "timeWeek": 2402,
     "timeMonth": 2279,
     "timeYear": 2379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-29": 1
+    }
   },
   {
     "name": "Barrs Barking Salon",
     "url": "https://barrsbarkingsalon.co.uk",
     "icon": "https://favicons.githubusercontent.com/barrsbarkingsalon.co.uk",
     "slug": "barrs-barking-salon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -97,7 +99,9 @@
     "timeWeek": 1148,
     "timeMonth": 1071,
     "timeYear": 1109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-29": 0
+    }
   },
   {
     "name": "TSO Ltd",
