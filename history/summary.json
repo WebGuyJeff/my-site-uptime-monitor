@@ -12,7 +12,7 @@
     "uptimeYear": "98.79%",
     "time": 924,
     "timeDay": 1222,
-    "timeWeek": 870,
+    "timeWeek": 883,
     "timeMonth": 932,
     "timeYear": 924,
     "dailyMinutesDown": {
@@ -108,9 +108,9 @@
     "url": "https://tso-ltd.co.uk",
     "icon": "https://favicons.githubusercontent.com/tso-ltd.co.uk",
     "slug": "tso-ltd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -119,6 +119,8 @@
     "timeWeek": 2023,
     "timeMonth": 1873,
     "timeYear": 2040,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-29": 0
+    }
   }
 ]
