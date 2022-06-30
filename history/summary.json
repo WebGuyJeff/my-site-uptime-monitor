@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/jeffersonreal.uk",
     "slug": "jefferson-real",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.48%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "98.60%",
-    "uptimeYear": "98.79%",
-    "time": 924,
-    "timeDay": 1222,
-    "timeWeek": 883,
-    "timeMonth": 932,
-    "timeYear": 924,
+    "uptimeYear": "98.81%",
+    "time": 923,
+    "timeDay": 840,
+    "timeWeek": 885,
+    "timeMonth": 933,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2022-06-26": 17,
       "2022-06-25": 17,
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 694,
-    "timeDay": 971,
-    "timeWeek": 699,
-    "timeMonth": 692,
-    "timeYear": 694,
+    "time": 693,
+    "timeDay": 610,
+    "timeWeek": 680,
+    "timeMonth": 693,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2022-05-12": 22
     }
@@ -74,11 +74,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 2391,
-    "timeDay": 2908,
-    "timeWeek": 2489,
-    "timeMonth": 2305,
-    "timeYear": 2391,
+    "time": 2408,
+    "timeDay": 3265,
+    "timeWeek": 2720,
+    "timeMonth": 2289,
+    "timeYear": 2408,
     "dailyMinutesDown": {
       "2022-06-29": 29
     }
@@ -94,11 +94,11 @@
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 1110,
-    "timeDay": 1271,
-    "timeWeek": 1153,
-    "timeMonth": 1074,
-    "timeYear": 1110,
+    "time": 1109,
+    "timeDay": 1114,
+    "timeWeek": 1116,
+    "timeMonth": 1084,
+    "timeYear": 1109,
     "dailyMinutesDown": {
       "2022-06-29": 28
     }
@@ -109,18 +109,16 @@
     "icon": "https://favicons.githubusercontent.com/tso-ltd.co.uk",
     "slug": "tso-ltd",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 2041,
-    "timeDay": 2149,
-    "timeWeek": 2036,
-    "timeMonth": 1881,
-    "timeYear": 2041,
-    "dailyMinutesDown": {
-      "2022-06-29": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2047,
+    "timeDay": 2275,
+    "timeWeek": 2181,
+    "timeMonth": 1892,
+    "timeYear": 2047,
+    "dailyMinutesDown": {}
   }
 ]
