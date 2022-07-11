@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/jeffersonreal.uk",
     "slug": "jefferson-real",
     "status": "up",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "98.43%",
-    "uptimeWeek": "99.09%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "98.97%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.88%",
     "time": 923,
-    "timeDay": 861,
-    "timeWeek": 943,
-    "timeMonth": 952,
+    "timeDay": 752,
+    "timeWeek": 947,
+    "timeMonth": 953,
     "timeYear": 923,
     "dailyMinutesDown": {
       "2022-07-10": 23,
@@ -58,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 696,
-    "timeDay": 811,
-    "timeWeek": 714,
-    "timeMonth": 683,
-    "timeYear": 696,
+    "time": 697,
+    "timeDay": 719,
+    "timeWeek": 715,
+    "timeMonth": 689,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2022-05-12": 22
     }
@@ -78,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 2373,
-    "timeDay": 2893,
-    "timeWeek": 2071,
-    "timeMonth": 2308,
-    "timeYear": 2373,
+    "time": 2361,
+    "timeDay": 1461,
+    "timeWeek": 1873,
+    "timeMonth": 2322,
+    "timeYear": 2361,
     "dailyMinutesDown": {
       "2022-06-29": 29
     }
@@ -99,9 +99,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 1123,
-    "timeDay": 1375,
-    "timeWeek": 1222,
-    "timeMonth": 1119,
+    "timeDay": 1088,
+    "timeWeek": 1201,
+    "timeMonth": 1126,
     "timeYear": 1123,
     "dailyMinutesDown": {
       "2022-06-29": 28
@@ -118,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2021,
-    "timeDay": 2936,
-    "timeWeek": 1805,
-    "timeMonth": 1879,
-    "timeYear": 2021,
+    "time": 2012,
+    "timeDay": 1386,
+    "timeWeek": 1716,
+    "timeMonth": 1890,
+    "timeYear": 2012,
     "dailyMinutesDown": {}
   }
 ]
