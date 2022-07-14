@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/jeffersonreal.uk",
     "slug": "jefferson-real",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "98.91%",
-    "time": 920,
-    "timeDay": 805,
-    "timeWeek": 907,
-    "timeMonth": 946,
-    "timeYear": 920,
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "98.93%",
+    "time": 918,
+    "timeDay": 634,
+    "timeWeek": 854,
+    "timeMonth": 930,
+    "timeYear": 918,
     "dailyMinutesDown": {
       "2022-07-10": 23,
       "2022-07-07": 26,
@@ -58,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 691,
-    "timeDay": 482,
-    "timeWeek": 665,
-    "timeMonth": 669,
-    "timeYear": 691,
+    "time": 688,
+    "timeDay": 520,
+    "timeWeek": 624,
+    "timeMonth": 660,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2022-05-12": 22
     }
@@ -78,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 2367,
-    "timeDay": 2304,
-    "timeWeek": 2211,
-    "timeMonth": 2325,
-    "timeYear": 2367,
+    "time": 2368,
+    "timeDay": 2386,
+    "timeWeek": 2307,
+    "timeMonth": 2359,
+    "timeYear": 2368,
     "dailyMinutesDown": {
       "2022-06-29": 29
     }
@@ -98,11 +98,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 1115,
-    "timeDay": 855,
-    "timeWeek": 1137,
-    "timeMonth": 1110,
-    "timeYear": 1115,
+    "time": 1112,
+    "timeDay": 870,
+    "timeWeek": 1055,
+    "timeMonth": 1097,
+    "timeYear": 1112,
     "dailyMinutesDown": {
       "2022-06-29": 28
     }
@@ -118,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2016,
-    "timeDay": 2239,
-    "timeWeek": 2016,
-    "timeMonth": 1916,
-    "timeYear": 2016,
+    "time": 2015,
+    "timeDay": 1929,
+    "timeWeek": 2092,
+    "timeMonth": 1941,
+    "timeYear": 2015,
     "dailyMinutesDown": {}
   }
 ]
