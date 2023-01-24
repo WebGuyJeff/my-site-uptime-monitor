@@ -1,4 +1,4 @@
-# [📈 Live Status](https://Bigup Jeff.github.io/my-site-uptime-monitor): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://BigupJeff.github.io/my-site-uptime-monitor): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Bigup Jeff](https://Bigup Jeff.github.io/my-site-uptime-monitor), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -24,7 +24,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://Bigup Jeff.github.io/my-site-uptime-monitor)
+[**Visit our status website →**](https://BigupJeff.github.io/my-site-uptime-monitor)
 
 ## 📄 License
 
