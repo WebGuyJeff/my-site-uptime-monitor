@@ -13,6 +13,8 @@ sites:
     url: https://barrsbarkingsalon.co.uk
   - name: TSO Ltd
     url: https://tso-ltd.co.uk
+  - name: Bespoke 4 joinery
+    url: https://bespoke4joinery.co.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
