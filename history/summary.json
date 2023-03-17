@@ -6,17 +6,17 @@
     "slug": "jefferson-real",
     "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "72.55%",
-    "uptimeWeek": "94.09%",
-    "uptimeMonth": "97.97%",
+    "uptimeDay": "73.31%",
+    "uptimeWeek": "94.20%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "98.44%",
     "time": 1009,
     "timeDay": 2682,
-    "timeWeek": 1959,
+    "timeWeek": 1989,
     "timeMonth": 1365,
     "timeYear": 1009,
     "dailyMinutesDown": {
-      "2023-03-17": 298,
+      "2023-03-17": 287,
       "2023-03-16": 201,
       "2023-03-15": 58,
       "2023-03-12": 40,
@@ -70,7 +70,8 @@
       "2022-10-21": 1,
       "2022-10-20": 21,
       "2022-10-19": 26,
-      "2022-10-18": 100
+      "2022-10-18": 100,
+      "2022-10-16": 21
     }
   },
   {
@@ -160,9 +161,9 @@
     "url": "https://tso-ltd.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/tso-ltd.co.uk.ico",
     "slug": "tso-ltd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -172,6 +173,7 @@
     "timeMonth": 1809,
     "timeYear": 2029,
     "dailyMinutesDown": {
+      "2023-03-17": 0,
       "2023-02-13": 27,
       "2023-01-09": 23,
       "2022-10-19": 56,
