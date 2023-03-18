@@ -4,14 +4,14 @@
     "url": "https://jeffersonreal.uk",
     "icon": "https://icons.duckduckgo.com/ip3/jeffersonreal.uk.ico",
     "slug": "jefferson-real",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "92.88%",
+    "uptimeDay": "93.70%",
     "uptimeWeek": "93.30%",
     "uptimeMonth": "97.79%",
     "uptimeYear": "98.46%",
     "time": 1027,
-    "timeDay": 2518,
+    "timeDay": 2111,
     "timeWeek": 2056,
     "timeMonth": 1458,
     "timeYear": 1027,
@@ -67,9 +67,7 @@
       "2022-11-04": 41,
       "2022-10-28": 172,
       "2022-10-27": 48,
-      "2022-10-22": 27,
-      "2022-10-21": 1,
-      "2022-10-20": 21
+      "2022-10-22": 27
     }
   },
   {
@@ -161,7 +159,7 @@
     "slug": "tso-ltd",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.66%",
+    "uptimeDay": "98.76%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
