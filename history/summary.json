@@ -11,9 +11,9 @@
     "uptimeMonth": "90.61%",
     "uptimeYear": "98.78%",
     "time": 1135,
-    "timeDay": 1686,
+    "timeDay": 1508,
     "timeWeek": 2027,
-    "timeMonth": 2022,
+    "timeMonth": 2031,
     "timeYear": 1135,
     "dailyMinutesDown": {
       "2023-04-06": 62,
@@ -180,9 +180,9 @@
     "url": "https://bespoke4joinery.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/bespoke4joinery.co.uk.ico",
     "slug": "bespoke-4-joinery",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -192,6 +192,7 @@
     "timeMonth": 1204,
     "timeYear": 1057,
     "dailyMinutesDown": {
+      "2023-04-06": 0,
       "2023-02-24": 19,
       "2023-02-13": 26,
       "2023-01-25": 21
