@@ -4,18 +4,19 @@
     "url": "https://jeffersonreal.uk",
     "icon": "https://icons.duckduckgo.com/ip3/jeffersonreal.uk.ico",
     "slug": "jefferson-real",
-    "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.28%",
+    "status": "down",
+    "uptime": "98.45%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.27%",
     "uptimeMonth": "90.73%",
-    "uptimeYear": "98.21%",
+    "uptimeYear": "98.22%",
     "time": 1107,
     "timeDay": 714,
     "timeWeek": 1296,
-    "timeMonth": 923,
+    "timeMonth": 926,
     "timeYear": 1120,
     "dailyMinutesDown": {
+      "2023-06-24": 0,
       "2023-06-20": 16,
       "2023-06-18": 38,
       "2023-06-17": 19,
@@ -75,7 +76,7 @@
       "2023-02-14": 16,
       "2023-02-13": 20,
       "2023-02-08": 68,
-      "2023-02-07": 346
+      "2023-02-07": 316
     }
   },
   {
@@ -169,7 +170,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tso-ltd.co.uk.ico",
     "slug": "tso-ltd",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
