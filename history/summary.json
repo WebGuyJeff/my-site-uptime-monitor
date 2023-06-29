@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jeffersonreal.uk.ico",
     "slug": "jefferson-real",
     "status": "up",
-    "uptime": "98.11%",
-    "uptimeDay": "73.04%",
-    "uptimeWeek": "74.72%",
-    "uptimeMonth": "85.00%",
+    "uptime": "98.10%",
+    "uptimeDay": "85.39%",
+    "uptimeWeek": "74.83%",
+    "uptimeMonth": "85.02%",
     "uptimeYear": "97.80%",
-    "time": 1096,
-    "timeDay": 1370,
-    "timeWeek": 889,
+    "time": 1107,
+    "timeDay": 1158,
+    "timeWeek": 897,
     "timeMonth": 941,
-    "timeYear": 1121,
+    "timeYear": 1120,
     "dailyMinutesDown": {
-      "2023-06-28": 327,
+      "2023-06-28": 316,
       "2023-06-27": 79,
       "2023-06-26": 814,
       "2023-06-25": 1328,
@@ -77,7 +77,8 @@
       "2023-02-24": 45,
       "2023-02-23": 18,
       "2023-02-14": 16,
-      "2023-02-13": 20
+      "2023-02-13": 20,
+      "2023-02-08": 46
     }
   },
   {
@@ -92,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 600,
-    "timeDay": 673,
-    "timeWeek": 487,
-    "timeMonth": 629,
-    "timeYear": 586,
+    "timeDay": 532,
+    "timeWeek": 504,
+    "timeMonth": 635,
+    "timeYear": 584,
     "dailyMinutesDown": {
       "2023-02-11": 16,
       "2022-10-31": 58,
@@ -117,10 +118,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.92%",
     "time": 2303,
-    "timeDay": 1491,
-    "timeWeek": 1536,
-    "timeMonth": 1983,
-    "timeYear": 2292,
+    "timeDay": 2360,
+    "timeWeek": 1754,
+    "timeMonth": 2023,
+    "timeYear": 2291,
     "dailyMinutesDown": {
       "2023-06-07": 25,
       "2023-04-15": 18,
@@ -131,8 +132,7 @@
       "2022-09-04": 25,
       "2022-08-18": 24,
       "2022-08-14": 21,
-      "2022-07-27": 129,
-      "2022-06-29": 29
+      "2022-07-27": 129
     }
   },
   {
@@ -146,11 +146,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1106,
-    "timeDay": 1208,
-    "timeWeek": 795,
-    "timeMonth": 1235,
-    "timeYear": 1106,
+    "time": 1105,
+    "timeDay": 711,
+    "timeWeek": 802,
+    "timeMonth": 1236,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2023-04-03": 21,
       "2023-03-18": 18,
@@ -161,8 +161,7 @@
       "2022-09-04": 24,
       "2022-08-18": 23,
       "2022-08-14": 20,
-      "2022-07-27": 129,
-      "2022-06-29": 28
+      "2022-07-27": 129
     }
   },
   {
@@ -177,9 +176,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1907,
-    "timeDay": 1243,
-    "timeWeek": 1267,
-    "timeMonth": 1503,
+    "timeDay": 2062,
+    "timeWeek": 1446,
+    "timeMonth": 1540,
     "timeYear": 1886,
     "dailyMinutesDown": {
       "2023-03-17": 19,
@@ -203,11 +202,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1029,
-    "timeDay": 1221,
-    "timeWeek": 818,
+    "time": 1027,
+    "timeDay": 680,
+    "timeWeek": 809,
     "timeMonth": 1165,
-    "timeYear": 1029,
+    "timeYear": 1027,
     "dailyMinutesDown": {
       "2023-02-24": 19,
       "2023-02-13": 26,
