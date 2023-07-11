@@ -4,11 +4,11 @@
     "url": "https://jeffersonreal.uk",
     "icon": "https://icons.duckduckgo.com/ip3/jeffersonreal.uk.ico",
     "slug": "jefferson-real",
-    "status": "up",
+    "status": "down",
     "uptime": "97.97%",
-    "uptimeDay": "98.92%",
+    "uptimeDay": "98.91%",
     "uptimeWeek": "74.91%",
-    "uptimeMonth": "84.33%",
+    "uptimeMonth": "84.81%",
     "uptimeYear": "97.57%",
     "time": 1164,
     "timeDay": 755,
@@ -70,7 +70,7 @@
       "2023-03-24": 35,
       "2023-03-23": 18,
       "2023-03-20": 107,
-      "2023-03-19": 119
+      "2023-03-19": 103
     }
   },
   {
