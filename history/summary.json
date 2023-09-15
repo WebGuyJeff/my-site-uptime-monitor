@@ -6,14 +6,14 @@
     "slug": "jefferson-real",
     "status": "up",
     "uptime": "97.61%",
-    "uptimeDay": "86.35%",
+    "uptimeDay": "86.34%",
     "uptimeWeek": "98.05%",
     "uptimeMonth": "97.25%",
-    "uptimeYear": "96.71%",
-    "time": 1208,
+    "uptimeYear": "96.72%",
+    "time": 1207,
     "timeDay": 2646,
     "timeWeek": 1743,
-    "timeMonth": 1551,
+    "timeMonth": 1545,
     "timeYear": 1240,
     "dailyMinutesDown": {
       "2023-09-15": 112,
@@ -59,8 +59,7 @@
       "2023-06-14": 19,
       "2023-06-12": 1270,
       "2023-06-11": 1440,
-      "2023-06-10": 1132,
-      "2023-06-04": 17
+      "2023-06-10": 1132
     }
   },
   {
