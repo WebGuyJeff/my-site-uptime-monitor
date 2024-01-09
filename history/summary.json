@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.72%",
     "time": 1249,
-    "timeDay": 903,
-    "timeWeek": 665,
+    "timeDay": 544,
+    "timeWeek": 662,
     "timeMonth": 676,
     "timeYear": 1277,
     "dailyMinutesDown": {
@@ -67,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 547,
-    "timeDay": 641,
-    "timeWeek": 467,
-    "timeMonth": 538,
-    "timeYear": 544,
+    "timeDay": 377,
+    "timeWeek": 461,
+    "timeMonth": 535,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2023-07-18": 23,
       "2023-02-11": 16
@@ -87,10 +87,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2187,
-    "timeDay": 1294,
-    "timeWeek": 1583,
-    "timeMonth": 1631,
+    "time": 2189,
+    "timeDay": 2394,
+    "timeWeek": 1810,
+    "timeMonth": 1639,
     "timeYear": 2040,
     "dailyMinutesDown": {
       "2023-11-30": 41,
@@ -99,8 +99,7 @@
       "2023-07-07": 25,
       "2023-06-07": 25,
       "2023-04-15": 18,
-      "2023-02-11": 15,
-      "2023-01-09": 24
+      "2023-02-11": 15
     }
   },
   {
@@ -115,17 +114,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1061,
-    "timeDay": 1271,
-    "timeWeek": 847,
-    "timeMonth": 880,
-    "timeYear": 1052,
+    "timeDay": 753,
+    "timeWeek": 858,
+    "timeMonth": 879,
+    "timeYear": 1050,
     "dailyMinutesDown": {
       "2023-11-30": 30,
       "2023-07-18": 22,
       "2023-04-03": 21,
       "2023-03-18": 18,
-      "2023-02-24": 19,
-      "2023-01-09": 23
+      "2023-02-24": 19
     }
   },
   {
@@ -134,18 +132,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tso-ltd.co.uk.ico",
     "slug": "tso-ltd",
     "status": "down",
-    "uptime": "97.13%",
+    "uptime": "96.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.72%",
-    "uptimeYear": "95.20%",
-    "time": 1868,
+    "uptimeMonth": "39.44%",
+    "uptimeYear": "94.92%",
+    "time": 1867,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1484,
+    "timeMonth": 1468,
     "timeYear": 1748,
     "dailyMinutesDown": {
-      "2024-01-08": 76,
+      "2024-01-09": 76,
+      "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
@@ -168,8 +167,7 @@
       "2023-07-18": 21,
       "2023-07-07": 25,
       "2023-03-17": 19,
-      "2023-02-13": 27,
-      "2023-01-09": 23
+      "2023-02-13": 27
     }
   },
   {
@@ -183,11 +181,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 986,
-    "timeDay": 905,
-    "timeWeek": 708,
-    "timeMonth": 820,
-    "timeYear": 986,
+    "time": 985,
+    "timeDay": 539,
+    "timeWeek": 686,
+    "timeMonth": 814,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2023-11-30": 38,
       "2023-07-18": 21,
