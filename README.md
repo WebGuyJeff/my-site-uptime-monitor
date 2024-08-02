@@ -1,6 +1,6 @@
-# [📈 Live Status](https://BigupJeff.github.io/my-site-uptime-monitor): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://WebGuyJeff.github.io/my-site-uptime-monitor): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Bigup Jeff](https://Bigup Jeff.github.io/my-site-uptime-monitor), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Bigup Jeff](https://WebGuyJeff.github.io/my-site-uptime-monitor), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/Bigup Jeff/my-site-uptime-monitor/workflows/Uptime%20CI/badge.svg)](https://github.com/Bigup Jeff/my-site-uptime-monitor/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Bigup Jeff/my-site-uptime-monitor/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Bigup Jeff/my-site-uptime-monitor/actions?query=workflow%3A%22Response+Time+CI%22)
