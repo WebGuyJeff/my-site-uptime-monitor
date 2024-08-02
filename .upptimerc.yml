@@ -17,6 +17,8 @@ sites:
     url: https://bespoke4joinery.co.uk
   - name: Nightingale Mortgage Consultants
     url: https://nightingalemortgageconsultants.com/
+  - name: TSO LTD
+    url: https://tso-ltd.co.uk/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
