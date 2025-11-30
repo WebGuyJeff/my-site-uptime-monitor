@@ -6,15 +6,15 @@
     "slug": "jefferson-real",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "96.62%",
-    "uptimeWeek": "97.54%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "97.58%",
     "uptimeMonth": "98.37%",
-    "uptimeYear": "99.30%",
-    "time": 1613,
-    "timeDay": 1290,
-    "timeWeek": 1423,
-    "timeMonth": 1542,
-    "timeYear": 1763,
+    "uptimeYear": "99.33%",
+    "time": 1612,
+    "timeDay": 1276,
+    "timeWeek": 1402,
+    "timeMonth": 1534,
+    "timeYear": 1762,
     "dailyMinutesDown": {
       "2025-11-30": 49,
       "2025-11-28": 51,
@@ -53,7 +53,7 @@
       "2025-07-13": 486,
       "2025-07-12": 593,
       "2025-07-11": 602,
-      "2025-07-10": 445
+      "2025-07-10": 294
     }
   },
   {
@@ -61,17 +61,17 @@
     "url": "https://bigupweb.uk",
     "icon": "https://icons.duckduckgo.com/ip3/bigupweb.uk.ico",
     "slug": "bigup-web",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "96.62%",
-    "uptimeWeek": "97.54%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "97.57%",
     "uptimeMonth": "98.37%",
-    "uptimeYear": "99.28%",
+    "uptimeYear": "99.31%",
     "time": 1843,
-    "timeDay": 1275,
-    "timeWeek": 1368,
-    "timeMonth": 1534,
-    "timeYear": 1859,
+    "timeDay": 1213,
+    "timeWeek": 1344,
+    "timeMonth": 1527,
+    "timeYear": 1857,
     "dailyMinutesDown": {
       "2025-11-30": 49,
       "2025-11-28": 51,
@@ -110,7 +110,7 @@
       "2025-07-13": 462,
       "2025-07-12": 585,
       "2025-07-11": 595,
-      "2025-07-10": 577
+      "2025-07-10": 440
     }
   },
   {
@@ -118,17 +118,17 @@
     "url": "https://breezemedicalinvoicing.com",
     "icon": "https://icons.duckduckgo.com/ip3/breezemedicalinvoicing.com.ico",
     "slug": "breeze-medical-invoicing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "97.53%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "97.57%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "99.29%",
-    "time": 1476,
-    "timeDay": 753,
-    "timeWeek": 767,
-    "timeMonth": 851,
-    "timeYear": 1218,
+    "time": 1474,
+    "timeDay": 721,
+    "timeWeek": 756,
+    "timeMonth": 848,
+    "timeYear": 1217,
     "dailyMinutesDown": {
       "2025-11-30": 49,
       "2025-11-28": 51,
@@ -167,8 +167,7 @@
       "2025-07-13": 459,
       "2025-07-12": 578,
       "2025-07-11": 567,
-      "2025-07-10": 573,
-      "2025-07-09": 16
+      "2025-07-10": 573
     }
   },
   {
@@ -176,16 +175,16 @@
     "url": "https://barrsbarkingsalon.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/barrsbarkingsalon.co.uk.ico",
     "slug": "barrs-barking-salon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "97.53%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "97.57%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "99.49%",
-    "time": 1073,
-    "timeDay": 932,
-    "timeWeek": 950,
-    "timeMonth": 1025,
+    "time": 1072,
+    "timeDay": 933,
+    "timeWeek": 952,
+    "timeMonth": 1024,
     "timeYear": 1100,
     "dailyMinutesDown": {
       "2025-11-30": 49,
@@ -238,7 +237,7 @@
       "2025-05-18": 23,
       "2025-04-19": 16,
       "2025-04-18": 19,
-      "2025-04-17": 121
+      "2025-04-17": 78
     }
   },
   {
@@ -246,17 +245,17 @@
     "url": "https://nightingalemortgageconsultants.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nightingalemortgageconsultants.com.ico",
     "slug": "nightingale-mortgage-consultants",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "98.38%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "98.37%",
     "uptimeYear": "99.35%",
     "time": 1020,
-    "timeDay": 950,
-    "timeWeek": 907,
-    "timeMonth": 965,
-    "timeYear": 1052,
+    "timeDay": 907,
+    "timeWeek": 891,
+    "timeMonth": 962,
+    "timeYear": 1051,
     "dailyMinutesDown": {
       "2025-11-30": 49,
       "2025-11-28": 51,
@@ -295,8 +294,7 @@
       "2025-07-13": 450,
       "2025-07-12": 434,
       "2025-07-11": 519,
-      "2025-07-10": 480,
-      "2025-07-09": 15
+      "2025-07-10": 480
     }
   },
   {
@@ -304,19 +302,19 @@
     "url": "https://bespoke4joinery.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/bespoke4joinery.co.uk.ico",
     "slug": "bespoke-4-joinery",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "99.29%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "99.30%",
     "time": 762,
-    "timeDay": 552,
-    "timeWeek": 569,
-    "timeMonth": 627,
+    "timeDay": 539,
+    "timeWeek": 564,
+    "timeMonth": 626,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-11-30": 49,
+      "2025-11-30": 50,
       "2025-11-28": 51,
       "2025-11-27": 62,
       "2025-11-24": 59,
@@ -354,7 +352,7 @@
       "2025-07-12": 546,
       "2025-07-11": 557,
       "2025-07-10": 563,
-      "2025-07-09": 79
+      "2025-07-09": 19
     }
   },
   {
@@ -362,19 +360,19 @@
     "url": "https://tso-ltd.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/tso-ltd.co.uk.ico",
     "slug": "tso-ltd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "99.44%",
-    "time": 1376,
-    "timeDay": 794,
-    "timeWeek": 941,
-    "timeMonth": 1049,
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "99.45%",
+    "time": 1374,
+    "timeDay": 807,
+    "timeWeek": 939,
+    "timeMonth": 1048,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2025-11-30": 49,
+      "2025-11-30": 50,
       "2025-11-28": 51,
       "2025-11-27": 62,
       "2025-11-24": 59,
@@ -417,8 +415,7 @@
       "2025-07-07": 171,
       "2025-07-06": 247,
       "2025-07-05": 122,
-      "2025-07-04": 61,
-      "2025-06-26": 43
+      "2025-07-04": 61
     }
   }
 ]
