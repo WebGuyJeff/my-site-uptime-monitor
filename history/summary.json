@@ -6,17 +6,16 @@
     "slug": "jefferson-real",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "97.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "99.39%",
-    "time": 1609,
-    "timeDay": 1322,
-    "timeWeek": 1512,
-    "timeMonth": 1567,
-    "timeYear": 1764,
+    "time": 1610,
+    "timeDay": 1602,
+    "timeWeek": 1520,
+    "timeMonth": 1565,
+    "timeYear": 1766,
     "dailyMinutesDown": {
-      "2025-12-26": 14,
       "2025-12-25": 17,
       "2025-12-24": 134,
       "2025-12-23": 59,
@@ -69,7 +68,7 @@
       "2025-07-28": 24,
       "2025-07-14": 418,
       "2025-07-13": 486,
-      "2025-07-12": 332
+      "2025-07-12": 354
     }
   },
   {
@@ -79,17 +78,16 @@
     "slug": "bigup-web",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "97.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "99.39%",
-    "time": 1808,
-    "timeDay": 1285,
-    "timeWeek": 1464,
-    "timeMonth": 1494,
-    "timeYear": 1798,
+    "time": 1810,
+    "timeDay": 1688,
+    "timeWeek": 1467,
+    "timeMonth": 1495,
+    "timeYear": 1799,
     "dailyMinutesDown": {
-      "2025-12-26": 14,
       "2025-12-25": 17,
       "2025-12-24": 134,
       "2025-12-23": 59,
@@ -142,7 +140,7 @@
       "2025-07-28": 24,
       "2025-07-14": 414,
       "2025-07-13": 462,
-      "2025-07-12": 350
+      "2025-07-12": 378
     }
   },
   {
@@ -152,17 +150,16 @@
     "slug": "breeze-medical-invoicing",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "97.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "99.39%",
-    "time": 1412,
-    "timeDay": 682,
-    "timeWeek": 770,
-    "timeMonth": 832,
-    "timeYear": 1122,
+    "time": 1411,
+    "timeDay": 810,
+    "timeWeek": 772,
+    "timeMonth": 830,
+    "timeYear": 1120,
     "dailyMinutesDown": {
-      "2025-12-26": 14,
       "2025-12-25": 17,
       "2025-12-24": 134,
       "2025-12-23": 59,
@@ -215,7 +212,7 @@
       "2025-07-28": 24,
       "2025-07-14": 409,
       "2025-07-13": 459,
-      "2025-07-12": 344
+      "2025-07-12": 371
     }
   },
   {
@@ -225,17 +222,16 @@
     "slug": "barrs-barking-salon",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "97.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "99.46%",
     "time": 1071,
-    "timeDay": 1146,
-    "timeWeek": 1046,
-    "timeMonth": 1055,
+    "timeDay": 1045,
+    "timeWeek": 1048,
+    "timeMonth": 1053,
     "timeYear": 1091,
     "dailyMinutesDown": {
-      "2025-12-26": 14,
       "2025-12-25": 17,
       "2025-12-24": 134,
       "2025-12-23": 59,
@@ -293,7 +289,7 @@
       "2025-07-10": 160,
       "2025-07-09": 112,
       "2025-07-08": 118,
-      "2025-07-07": 38
+      "2025-07-07": 62
     }
   },
   {
@@ -303,17 +299,16 @@
     "slug": "nightingale-mortgage-consultants",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "97.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "99.40%",
     "time": 1038,
-    "timeDay": 952,
-    "timeWeek": 1005,
-    "timeMonth": 987,
+    "timeDay": 983,
+    "timeWeek": 1000,
+    "timeMonth": 985,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2025-12-26": 14,
       "2025-12-25": 17,
       "2025-12-24": 134,
       "2025-12-23": 59,
@@ -366,7 +361,7 @@
       "2025-07-28": 24,
       "2025-07-14": 378,
       "2025-07-13": 450,
-      "2025-07-12": 316
+      "2025-07-12": 332
     }
   },
   {
@@ -376,17 +371,16 @@
     "slug": "bespoke-4-joinery",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "97.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "97.68%",
     "uptimeYear": "99.40%",
-    "time": 753,
-    "timeDay": 635,
-    "timeWeek": 644,
-    "timeMonth": 659,
+    "time": 752,
+    "timeDay": 634,
+    "timeWeek": 642,
+    "timeMonth": 656,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2025-12-26": 14,
       "2025-12-25": 17,
       "2025-12-24": 134,
       "2025-12-23": 59,
@@ -439,7 +433,7 @@
       "2025-07-28": 24,
       "2025-07-14": 399,
       "2025-07-13": 447,
-      "2025-07-12": 318
+      "2025-07-12": 344
     }
   },
   {
@@ -448,18 +442,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tso-ltd.co.uk.ico",
     "slug": "tso-ltd",
     "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "99.43%",
-    "time": 1338,
-    "timeDay": 1228,
-    "timeWeek": 1036,
-    "timeMonth": 1041,
-    "timeYear": 1200,
+    "uptime": "99.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "99.42%",
+    "time": 1339,
+    "timeDay": 1308,
+    "timeWeek": 1042,
+    "timeMonth": 1043,
+    "timeYear": 1199,
     "dailyMinutesDown": {
-      "2025-12-26": 14,
       "2025-12-25": 17,
       "2025-12-24": 134,
       "2025-12-23": 59,
@@ -515,7 +508,8 @@
       "2025-07-12": 189,
       "2025-07-11": 246,
       "2025-07-10": 273,
-      "2025-07-09": 92
+      "2025-07-09": 92,
+      "2025-07-08": 68
     }
   }
 ]
