@@ -3,10 +3,12 @@ owner: WebGuyJeff # Your GitHub organization or username, where this repository 
 repo: my-site-uptime-monitor # The name of this repository
 
 sites:
-  - name: Jefferson Real
-    url: https://jeffersonreal.uk
+  - name: Web Guy Jeff
+    url: https://webguyjeff.com
   - name: Bigup Web
-    url: https://bigupweb.uk
+    url: https://bigupweb.com
+  - name: Kelly Lloyd Therapy
+    url: https://kellylloydtherapy.co.uk/
   - name: Breeze Medical Invoicing
     url: https://breezemedicalinvoicing.com
   - name: Barrs Barking Salon
