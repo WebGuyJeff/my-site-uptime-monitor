@@ -4,16 +4,16 @@
     "url": "https://webguyjeff.com",
     "icon": "https://icons.duckduckgo.com/ip3/webguyjeff.com.ico",
     "slug": "web-guy-jeff",
-    "status": "up",
-    "uptime": "92.36%",
-    "uptimeDay": "68.63%",
-    "uptimeWeek": "81.51%",
-    "uptimeMonth": "78.24%",
-    "uptimeYear": "92.36%",
+    "status": "down",
+    "uptime": "92.24%",
+    "uptimeDay": "61.75%",
+    "uptimeWeek": "79.31%",
+    "uptimeMonth": "78.00%",
+    "uptimeYear": "92.24%",
     "time": 1443,
-    "timeDay": 1328,
-    "timeWeek": 1345,
-    "timeMonth": 1457,
+    "timeDay": 1326,
+    "timeWeek": 1330,
+    "timeMonth": 1468,
     "timeYear": 1443,
     "dailyMinutesDown": {
       "2026-03-24": 34,
@@ -72,7 +72,7 @@
       "2026-06-27": 150,
       "2026-06-28": 875,
       "2026-07-01": 450,
-      "2026-07-02": 2
+      "2026-07-02": 223
     }
   },
   {
@@ -81,15 +81,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bigupweb.com.ico",
     "slug": "bigup-web",
     "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "68.67%",
-    "uptimeWeek": "81.53%",
-    "uptimeMonth": "78.02%",
-    "uptimeYear": "97.44%",
+    "uptime": "99.38%",
+    "uptimeDay": "61.77%",
+    "uptimeWeek": "79.33%",
+    "uptimeMonth": "77.79%",
+    "uptimeYear": "97.40%",
     "time": 1699,
-    "timeDay": 1291,
+    "timeDay": 1421,
     "timeWeek": 1556,
-    "timeMonth": 1692,
+    "timeMonth": 1702,
     "timeYear": 1679,
     "dailyMinutesDown": {
       "2026-01-11": 23,
@@ -154,7 +154,7 @@
       "2026-06-27": 149,
       "2026-06-28": 874,
       "2026-07-01": 450,
-      "2026-07-02": 1
+      "2026-07-02": 223
     }
   },
   {
@@ -163,15 +163,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kellylloydtherapy.co.uk.ico",
     "slug": "kelly-lloyd-therapy",
     "status": "down",
-    "uptime": "92.36%",
-    "uptimeDay": "68.71%",
-    "uptimeWeek": "81.55%",
-    "uptimeMonth": "78.27%",
-    "uptimeYear": "92.36%",
+    "uptime": "92.24%",
+    "uptimeDay": "61.80%",
+    "uptimeWeek": "79.35%",
+    "uptimeMonth": "78.04%",
+    "uptimeYear": "92.24%",
     "time": 1471,
-    "timeDay": 1286,
+    "timeDay": 1397,
     "timeWeek": 1542,
-    "timeMonth": 1408,
+    "timeMonth": 1414,
     "timeYear": 1471,
     "dailyMinutesDown": {
       "2026-03-23": 31,
@@ -231,7 +231,7 @@
       "2026-06-27": 148,
       "2026-06-28": 874,
       "2026-07-01": 449,
-      "2026-07-02": 1
+      "2026-07-02": 223
     }
   },
   {
@@ -240,15 +240,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/breezemedicalinvoicing.com.ico",
     "slug": "breeze-medical-invoicing",
     "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "68.75%",
-    "uptimeWeek": "81.57%",
-    "uptimeMonth": "78.29%",
-    "uptimeYear": "97.46%",
+    "uptime": "99.38%",
+    "uptimeDay": "61.83%",
+    "uptimeWeek": "79.37%",
+    "uptimeMonth": "78.06%",
+    "uptimeYear": "97.42%",
     "time": 1270,
-    "timeDay": 1570,
+    "timeDay": 1787,
     "timeWeek": 1886,
-    "timeMonth": 1959,
+    "timeMonth": 1974,
     "timeYear": 1296,
     "dailyMinutesDown": {
       "2026-01-10": 15,
@@ -314,7 +314,7 @@
       "2026-06-27": 148,
       "2026-06-28": 873,
       "2026-07-01": 449,
-      "2026-07-02": 1
+      "2026-07-02": 223
     }
   },
   {
@@ -323,13 +323,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/barrsbarkingsalon.co.uk.ico",
     "slug": "barrs-barking-salon",
     "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "68.78%",
-    "uptimeWeek": "81.59%",
-    "uptimeMonth": "78.31%",
-    "uptimeYear": "97.47%",
+    "uptime": "99.38%",
+    "uptimeDay": "61.85%",
+    "uptimeWeek": "79.39%",
+    "uptimeMonth": "78.08%",
+    "uptimeYear": "97.43%",
     "time": 1123,
-    "timeDay": 1177,
+    "timeDay": 1175,
     "timeWeek": 1140,
     "timeMonth": 1089,
     "timeYear": 1126,
@@ -396,7 +396,7 @@
       "2026-06-27": 148,
       "2026-06-28": 872,
       "2026-07-01": 449,
-      "2026-07-02": 1
+      "2026-07-02": 223
     }
   },
   {
@@ -405,15 +405,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nightingalemortgageconsultants.com.ico",
     "slug": "nightingale-mortgage-consultants",
     "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "68.83%",
-    "uptimeWeek": "81.62%",
-    "uptimeMonth": "78.33%",
-    "uptimeYear": "97.47%",
+    "uptime": "98.96%",
+    "uptimeDay": "61.88%",
+    "uptimeWeek": "79.42%",
+    "uptimeMonth": "78.10%",
+    "uptimeYear": "97.43%",
     "time": 1043,
-    "timeDay": 1043,
+    "timeDay": 1036,
     "timeWeek": 1030,
-    "timeMonth": 1023,
+    "timeMonth": 1028,
     "timeYear": 1043,
     "dailyMinutesDown": {
       "2026-01-08": 24,
@@ -478,7 +478,7 @@
       "2026-06-27": 148,
       "2026-06-28": 872,
       "2026-07-01": 448,
-      "2026-07-02": 1
+      "2026-07-02": 223
     }
   },
   {
@@ -487,15 +487,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bespoke4joinery.co.uk.ico",
     "slug": "bespoke-4-joinery",
     "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "68.86%",
-    "uptimeWeek": "81.64%",
-    "uptimeMonth": "78.35%",
-    "uptimeYear": "97.47%",
+    "uptime": "99.25%",
+    "uptimeDay": "61.91%",
+    "uptimeWeek": "79.44%",
+    "uptimeMonth": "78.12%",
+    "uptimeYear": "97.43%",
     "time": 709,
-    "timeDay": 769,
+    "timeDay": 825,
     "timeWeek": 717,
-    "timeMonth": 733,
+    "timeMonth": 735,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2026-01-08": 24,
@@ -560,7 +560,7 @@
       "2026-06-27": 146,
       "2026-06-28": 872,
       "2026-07-01": 448,
-      "2026-07-02": 1
+      "2026-07-02": 222
     }
   },
   {
