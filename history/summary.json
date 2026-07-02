@@ -4,17 +4,17 @@
     "url": "https://webguyjeff.com",
     "icon": "https://icons.duckduckgo.com/ip3/webguyjeff.com.ico",
     "slug": "web-guy-jeff",
-    "status": "down",
-    "uptime": "92.24%",
-    "uptimeDay": "70.66%",
-    "uptimeWeek": "78.96%",
-    "uptimeMonth": "78.31%",
-    "uptimeYear": "92.24%",
-    "time": 1442,
-    "timeDay": 1313,
-    "timeWeek": 1325,
-    "timeMonth": 1457,
-    "timeYear": 1442,
+    "status": "up",
+    "uptime": "92.18%",
+    "uptimeDay": "70.69%",
+    "uptimeWeek": "77.82%",
+    "uptimeMonth": "78.05%",
+    "uptimeYear": "92.18%",
+    "time": 1443,
+    "timeDay": 1375,
+    "timeWeek": 1336,
+    "timeMonth": 1459,
+    "timeYear": 1443,
     "dailyMinutesDown": {
       "2026-03-24": 34,
       "2026-03-25": 61,
@@ -72,7 +72,7 @@
       "2026-06-27": 150,
       "2026-06-28": 875,
       "2026-07-01": 450,
-      "2026-07-02": 259
+      "2026-07-02": 373
     }
   },
   {
@@ -80,16 +80,16 @@
     "url": "https://bigupweb.com",
     "icon": "https://icons.duckduckgo.com/ip3/bigupweb.com.ico",
     "slug": "bigup-web",
-    "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "70.69%",
-    "uptimeWeek": "78.98%",
-    "uptimeMonth": "78.10%",
-    "uptimeYear": "97.40%",
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "70.71%",
+    "uptimeWeek": "77.85%",
+    "uptimeMonth": "77.84%",
+    "uptimeYear": "97.38%",
     "time": 1698,
-    "timeDay": 1451,
-    "timeWeek": 1539,
-    "timeMonth": 1695,
+    "timeDay": 1578,
+    "timeWeek": 1560,
+    "timeMonth": 1699,
     "timeYear": 1678,
     "dailyMinutesDown": {
       "2026-01-12": 33,
@@ -153,7 +153,7 @@
       "2026-06-27": 149,
       "2026-06-28": 874,
       "2026-07-01": 450,
-      "2026-07-02": 258
+      "2026-07-02": 373
     }
   },
   {
@@ -161,17 +161,17 @@
     "url": "https://kellylloydtherapy.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/kellylloydtherapy.co.uk.ico",
     "slug": "kelly-lloyd-therapy",
-    "status": "down",
-    "uptime": "92.23%",
-    "uptimeDay": "70.72%",
-    "uptimeWeek": "79.00%",
-    "uptimeMonth": "78.35%",
-    "uptimeYear": "92.23%",
-    "time": 1469,
-    "timeDay": 1300,
-    "timeWeek": 1517,
-    "timeMonth": 1411,
-    "timeYear": 1469,
+    "status": "up",
+    "uptime": "92.17%",
+    "uptimeDay": "70.75%",
+    "uptimeWeek": "77.87%",
+    "uptimeMonth": "78.09%",
+    "uptimeYear": "92.17%",
+    "time": 1470,
+    "timeDay": 1348,
+    "timeWeek": 1520,
+    "timeMonth": 1412,
+    "timeYear": 1470,
     "dailyMinutesDown": {
       "2026-03-23": 31,
       "2026-03-24": 34,
@@ -230,7 +230,7 @@
       "2026-06-27": 148,
       "2026-06-28": 874,
       "2026-07-01": 449,
-      "2026-07-02": 258
+      "2026-07-02": 373
     }
   },
   {
@@ -238,16 +238,16 @@
     "url": "https://breezemedicalinvoicing.com",
     "icon": "https://icons.duckduckgo.com/ip3/breezemedicalinvoicing.com.ico",
     "slug": "breeze-medical-invoicing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "70.74%",
-    "uptimeWeek": "79.03%",
-    "uptimeMonth": "78.37%",
-    "uptimeYear": "97.42%",
+    "uptimeDay": "70.77%",
+    "uptimeWeek": "77.89%",
+    "uptimeMonth": "78.11%",
+    "uptimeYear": "97.40%",
     "time": 1272,
-    "timeDay": 2416,
-    "timeWeek": 1919,
-    "timeMonth": 1971,
+    "timeDay": 2224,
+    "timeWeek": 1898,
+    "timeMonth": 1965,
     "timeYear": 1298,
     "dailyMinutesDown": {
       "2026-01-11": 23,
@@ -312,7 +312,7 @@
       "2026-06-27": 148,
       "2026-06-28": 873,
       "2026-07-01": 449,
-      "2026-07-02": 258
+      "2026-07-02": 372
     }
   },
   {
@@ -320,16 +320,16 @@
     "url": "https://barrsbarkingsalon.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/barrsbarkingsalon.co.uk.ico",
     "slug": "barrs-barking-salon",
-    "status": "down",
+    "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "70.77%",
-    "uptimeWeek": "79.05%",
-    "uptimeMonth": "78.39%",
-    "uptimeYear": "97.42%",
+    "uptimeDay": "70.80%",
+    "uptimeWeek": "77.92%",
+    "uptimeMonth": "78.13%",
+    "uptimeYear": "97.40%",
     "time": 1123,
-    "timeDay": 1139,
-    "timeWeek": 1146,
-    "timeMonth": 1093,
+    "timeDay": 1183,
+    "timeWeek": 1154,
+    "timeMonth": 1095,
     "timeYear": 1126,
     "dailyMinutesDown": {
       "2026-01-10": 44,
@@ -393,7 +393,7 @@
       "2026-06-27": 148,
       "2026-06-28": 872,
       "2026-07-01": 449,
-      "2026-07-02": 258
+      "2026-07-02": 372
     }
   },
   {
@@ -401,16 +401,16 @@
     "url": "https://nightingalemortgageconsultants.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nightingalemortgageconsultants.com.ico",
     "slug": "nightingale-mortgage-consultants",
-    "status": "down",
-    "uptime": "98.96%",
-    "uptimeDay": "70.79%",
-    "uptimeWeek": "79.07%",
-    "uptimeMonth": "78.41%",
-    "uptimeYear": "97.43%",
+    "status": "up",
+    "uptime": "98.95%",
+    "uptimeDay": "70.83%",
+    "uptimeWeek": "77.94%",
+    "uptimeMonth": "78.15%",
+    "uptimeYear": "97.40%",
     "time": 1043,
-    "timeDay": 1079,
-    "timeWeek": 1035,
-    "timeMonth": 1030,
+    "timeDay": 1132,
+    "timeWeek": 1046,
+    "timeMonth": 1034,
     "timeYear": 1043,
     "dailyMinutesDown": {
       "2026-01-10": 44,
@@ -474,7 +474,7 @@
       "2026-06-27": 148,
       "2026-06-28": 872,
       "2026-07-01": 448,
-      "2026-07-02": 257
+      "2026-07-02": 371
     }
   },
   {
@@ -482,16 +482,16 @@
     "url": "https://bespoke4joinery.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/bespoke4joinery.co.uk.ico",
     "slug": "bespoke-4-joinery",
-    "status": "down",
+    "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "70.82%",
-    "uptimeWeek": "79.10%",
-    "uptimeMonth": "78.43%",
-    "uptimeYear": "97.43%",
+    "uptimeDay": "70.86%",
+    "uptimeWeek": "77.96%",
+    "uptimeMonth": "78.17%",
+    "uptimeYear": "97.41%",
     "time": 709,
-    "timeDay": 900,
-    "timeWeek": 736,
-    "timeMonth": 741,
+    "timeDay": 917,
+    "timeWeek": 744,
+    "timeMonth": 744,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2026-01-10": 45,
@@ -555,7 +555,7 @@
       "2026-06-27": 146,
       "2026-06-28": 872,
       "2026-07-01": 448,
-      "2026-07-02": 257
+      "2026-07-02": 371
     }
   },
   {
